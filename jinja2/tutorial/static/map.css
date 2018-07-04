@@ -1,0 +1,20 @@
+#map {
+     height: 400px;
+}
+ #clear_map {
+     text-align: right;
+     font-size: 20px;
+     font-weight: bold;
+     cursor: pointer;
+}
+ #zones_list {
+     background: none;
+     list-style-type: circle;
+}
+ .load_zone_button {
+     background: none;
+     border: none;
+     cursor: pointer;
+     font-size: medium;
+}
+ 
